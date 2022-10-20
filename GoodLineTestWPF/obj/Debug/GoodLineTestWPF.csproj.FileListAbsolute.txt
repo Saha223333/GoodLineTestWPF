@@ -1,0 +1,14 @@
+C:\VSProjects\GoodLineTestWPF\GoodLineTestWPF\bin\Debug\GoodLineTestWPF.exe
+C:\VSProjects\GoodLineTestWPF\GoodLineTestWPF\bin\Debug\GoodLineTestWPF.pdb
+C:\VSProjects\GoodLineTestWPF\GoodLineTestWPF\obj\Debug\GoodLineTestWPF.csprojResolveAssemblyReference.cache
+C:\VSProjects\GoodLineTestWPF\GoodLineTestWPF\obj\Debug\MainWindow.g.cs
+C:\VSProjects\GoodLineTestWPF\GoodLineTestWPF\obj\Debug\App.g.cs
+C:\VSProjects\GoodLineTestWPF\GoodLineTestWPF\obj\Debug\GoodLineTestWPF_MarkupCompile.cache
+C:\VSProjects\GoodLineTestWPF\GoodLineTestWPF\obj\Debug\GoodLineTestWPF_MarkupCompile.lref
+C:\VSProjects\GoodLineTestWPF\GoodLineTestWPF\obj\Debug\MainWindow.baml
+C:\VSProjects\GoodLineTestWPF\GoodLineTestWPF\obj\Debug\GoodLineTestWPF.g.resources
+C:\VSProjects\GoodLineTestWPF\GoodLineTestWPF\obj\Debug\GoodLineTestWPF.Properties.Resources.resources
+C:\VSProjects\GoodLineTestWPF\GoodLineTestWPF\obj\Debug\GoodLineTestWPF.csproj.GenerateResource.Cache
+C:\VSProjects\GoodLineTestWPF\GoodLineTestWPF\obj\Debug\GoodLineTestWPF.exe
+C:\VSProjects\GoodLineTestWPF\GoodLineTestWPF\obj\Debug\GoodLineTestWPF.pdb
+C:\VSProjects\GoodLineTestWPF\GoodLineTestWPF\bin\Debug\GoodLineTestWPF.exe.config
